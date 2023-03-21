@@ -13,10 +13,6 @@
             {
                 Console.WriteLine("На ноль делить нельзя");
             }
-            finally
-            {
-                Console.WriteLine("Блок finally сработал");
-            }
         }
         static int Division(int a, int b)
         {
