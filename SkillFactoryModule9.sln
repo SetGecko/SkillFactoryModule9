@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_9.2.3", "Task_9.2.3\Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_9.3", "Practice_9.3\Practice_9.3.csproj", "{E1ADE77E-4146-4350-B102-E214336FCD56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_9.3", "Task_9.3\Task_9.3.csproj", "{E5C22B1D-2C13-4225-AD2A-8861670EA84C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_9.3.2", "Task_9.3\Task_9.3.2.csproj", "{E5C22B1D-2C13-4225-AD2A-8861670EA84C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
