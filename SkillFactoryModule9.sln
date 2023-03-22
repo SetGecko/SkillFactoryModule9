@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions_9.1", "Exceptions_9.1\Exceptions_9.1.csproj", "{2B57339F-13D5-4C28-B52E-F13CA07EBB1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions_9.1", "Exceptions_9.1\Exceptions_9.1.csproj", "{2B57339F-13D5-4C28-B52E-F13CA07EBB1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_9.1.3", "Task_9.1.3\Task_9.1.3.csproj", "{7CD62A29-2E12-40AD-BC7E-A32D5C2110FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_9.1.3", "Task_9.1.3\Task_9.1.3.csproj", "{7CD62A29-2E12-40AD-BC7E-A32D5C2110FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_9.1.4", "Task_9.1.4\Task_9.1.4.csproj", "{99DA5EEC-AA26-41E5-9E88-6C40546BF02D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_9.1.4", "Task_9.1.4\Task_9.1.4.csproj", "{99DA5EEC-AA26-41E5-9E88-6C40546BF02D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_9.2", "Practice_9.2\Practice_9.2.csproj", "{80A90F3D-C4B1-4220-AD59-038C6B01C9F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice_9.2", "Practice_9.2\Practice_9.2.csproj", "{80A90F3D-C4B1-4220-AD59-038C6B01C9F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_9.2.2", "Task_9.2.2\Task_9.2.2.csproj", "{6F2592A4-63B6-41F0-9CFA-225D655C6D7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_9.2.2", "Task_9.2.2\Task_9.2.2.csproj", "{6F2592A4-63B6-41F0-9CFA-225D655C6D7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_9.2.3", "Task_9.2.3\Task_9.2.3.csproj", "{19C617B2-C94B-42F8-A60A-793C41267938}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_9.2.3", "Task_9.2.3\Task_9.2.3.csproj", "{19C617B2-C94B-42F8-A60A-793C41267938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_9.3", "Practice_9.3\Practice_9.3.csproj", "{E1ADE77E-4146-4350-B102-E214336FCD56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{19C617B2-C94B-42F8-A60A-793C41267938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19C617B2-C94B-42F8-A60A-793C41267938}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19C617B2-C94B-42F8-A60A-793C41267938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1ADE77E-4146-4350-B102-E214336FCD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1ADE77E-4146-4350-B102-E214336FCD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1ADE77E-4146-4350-B102-E214336FCD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1ADE77E-4146-4350-B102-E214336FCD56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
