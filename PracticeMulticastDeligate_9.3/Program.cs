@@ -8,7 +8,7 @@
             ShowDelegate showDelegate = ShowMessage1;
             showDelegate += ShowMessage2;
             showDelegate += ShowMessage3;
-            // showDelegate += ShowMessage4;
+            showDelegate += ShowMessage4;
 
             showDelegate.Invoke();
 
