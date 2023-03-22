@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeMulticastDeligate_9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_9.3.4", "Task_9.3.4\Task_9.3.4.csproj", "{9906C402-DEA4-41D1-B313-8EF78A196DED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraciceDeleteMethodsFromDelegate_9.3", "PraciceDeleteMethodsFromDelegate_9.3\PraciceDeleteMethodsFromDelegate_9.3.csproj", "{FEBB1498-0F6D-4517-AA67-604E8B44C336}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{9906C402-DEA4-41D1-B313-8EF78A196DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9906C402-DEA4-41D1-B313-8EF78A196DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9906C402-DEA4-41D1-B313-8EF78A196DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEBB1498-0F6D-4517-AA67-604E8B44C336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBB1498-0F6D-4517-AA67-604E8B44C336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBB1498-0F6D-4517-AA67-604E8B44C336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBB1498-0F6D-4517-AA67-604E8B44C336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
