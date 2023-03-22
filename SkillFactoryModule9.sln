@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCovarianceInDelegat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeContravarianceInDelegates_9.4", "PracticeContravarianceInDelegates_9.4\PracticeContravarianceInDelegates_9.4.csproj", "{C2291E0D-64F8-46D5-B06E-6EE4DB1FC144}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screencast_9.4", "Screencast_9.4\Screencast_9.4.csproj", "{D40E718B-DCCD-45AD-86ED-DE1585EC09A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{C2291E0D-64F8-46D5-B06E-6EE4DB1FC144}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2291E0D-64F8-46D5-B06E-6EE4DB1FC144}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2291E0D-64F8-46D5-B06E-6EE4DB1FC144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40E718B-DCCD-45AD-86ED-DE1585EC09A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40E718B-DCCD-45AD-86ED-DE1585EC09A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40E718B-DCCD-45AD-86ED-DE1585EC09A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40E718B-DCCD-45AD-86ED-DE1585EC09A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
