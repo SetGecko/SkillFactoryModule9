@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_9.3.4", "Task_9.3.4\Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraciceDeleteMethodsFromDelegate_9.3", "PraciceDeleteMethodsFromDelegate_9.3\PraciceDeleteMethodsFromDelegate_9.3.csproj", "{FEBB1498-0F6D-4517-AA67-604E8B44C336}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_9.3.5", "Task_9.3.5\Task_9.3.5.csproj", "{82BA9467-A425-4642-8F78-1DE90754F27C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{FEBB1498-0F6D-4517-AA67-604E8B44C336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEBB1498-0F6D-4517-AA67-604E8B44C336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEBB1498-0F6D-4517-AA67-604E8B44C336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BA9467-A425-4642-8F78-1DE90754F27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BA9467-A425-4642-8F78-1DE90754F27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BA9467-A425-4642-8F78-1DE90754F27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BA9467-A425-4642-8F78-1DE90754F27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
